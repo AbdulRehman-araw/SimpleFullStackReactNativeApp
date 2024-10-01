@@ -1,0 +1,29 @@
+{
+    "project_info": {
+      "project_number": "940072170864",
+      "project_id": "simplefullstackreactnativeapp",
+      "storage_bucket": "simplefullstackreactnativeapp.appspot.com"
+    },
+    "client": [
+      {
+        "client_info": {
+          "mobilesdk_app_id": "1:940072170864:android:2a7c3a20ccf6a06a874bb5",
+          "android_client_info": {
+            "package_name": "com.simplefullstackreactnativeapp"
+          }
+        },
+        "oauth_client": [],
+        "api_key": [
+          {
+            "current_key": "AIzaSyA9hWzR222T7pPK_9tLDJxithmxF4qSHX8"
+          }
+        ],
+        "services": {
+          "appinvite_service": {
+            "other_platform_oauth_client": []
+          }
+        }
+      }
+    ],
+    "configuration_version": "1"
+  }
